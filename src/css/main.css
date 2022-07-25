@@ -1,0 +1,30 @@
+.nav-link {
+    color: black
+}
+
+.nav-item {
+    color: black
+}
+
+input[type=checkbox] {
+    display: none;
+}
+  
+.container img {
+    transition: transform 0.25s ease;
+    cursor: zoom-in;
+}
+
+h3 {
+    font-family: "Tinos", serif;
+    font-size: 36px;
+}
+  
+input[type=checkbox]:checked ~ label > img {
+    transform: scale(2);
+    cursor: zoom-out;
+}
+
+body {
+    background-color: #fffefa
+}
