@@ -28,3 +28,7 @@ input[type=checkbox]:checked ~ label > img {
 body {
     background-color: #fffefa
 }
+
+p {
+    font-size: 18px;
+}
