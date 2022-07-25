@@ -10,10 +10,6 @@ input[type=checkbox] {
     display: none;
 }
   
-.container img {
-    transition: transform 0.25s ease;
-    cursor: zoom-in;
-}
 
 h3 {
     font-family: "Merienda", serif;
